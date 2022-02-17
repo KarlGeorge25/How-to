@@ -15,3 +15,11 @@ Step 7: Install Graphics Card
 Step 8: Mount Storage Drives
 Step 9: Mount Optical Drive
 Step 10: Connect Case Fans and Front pannels connector
+
+
+
+
+
+
+
+ https://karlgeorge25.github.io/How-to/
